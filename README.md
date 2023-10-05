@@ -1,1 +1,1 @@
-# adapter-fintuning
+# adapter-tuning
